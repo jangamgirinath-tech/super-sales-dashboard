@@ -65,4 +65,4 @@ Example: Filter by Category and Region, Ship Mode, or Order Date → Makes the d
 
 6. Screenshot / Demo
 
- link : https://github.com/jangamgirinath-tech/super-sales-dashboard/blob/main/dash1.png    link
+ link1 : https://github.com/jangamgirinath-tech/super-sales-dashboard/blob/main/dash1.png    link2:  https://github.com/jangamgirinath-tech/super-sales-dashboard/blob/main/dash2.png
